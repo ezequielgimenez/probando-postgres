@@ -1,5 +1,5 @@
-/src/state.ts
-/src/main.ts
+/server/state.ts
+/server/main.ts
 .parcel-cache
 node_modules
 dist
